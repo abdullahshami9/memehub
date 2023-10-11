@@ -19,3 +19,8 @@ export default {
 
     plugins: [forms],
 };
+
+module.exports = {
+    darkMode: 'class',
+    // ...
+  };
